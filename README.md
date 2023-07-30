@@ -22,4 +22,4 @@ If you have different directory structure you can use- application.properties fo
 This annotation is used to assign the request parameter to the variables in the method formal parameters
 Syntax = @RequestParam(“name”)
 
-Also, ModelAndView is also used for accepting parameters and setting view.
+Also, ModelAndView is also used for accepting client data and setting view.
